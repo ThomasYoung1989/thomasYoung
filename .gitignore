@@ -1,0 +1,23 @@
+# 以'#'开始的行，被视为注释.                                                                                                                          
+
+# 忽略掉所有文件名是 foo.txt的文件.
+
+.classpath
+.factorypath
+.mymetadata
+.project
+
+
+# 忽略所有生成的 html文件,
+
+*.class
+
+# foo.html是手工维护的，所以例外.
+
+!TestWebservice/src
+!TestWebservice/WebRoot
+
+# 忽略所有.o和 .a文件.
+
+TestWebservice/*
+TestWebservice/
