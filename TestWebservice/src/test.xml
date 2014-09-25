@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version='1.0' encoding='UTF-8'?>
 <USERMODIFYREQ>
 	<HEAD>
 		<CODE>11</CODE>
@@ -24,7 +24,7 @@
 			<EXPIREDATE>失效时间</EXPIREDATE>
 			<REMARK>帐号描述</REMARK>
 			<CREASTAFFID>
-				创建员工标识
+				创建员工标识ajaha
 			</CREASTAFFID>
 			<STATETIME>上次状态修改时间</STATETIME>
 			<STAFFTYPE>用户类型</STAFFTYPE>
